@@ -12,6 +12,3 @@ names.forEach(function(name,index){
     console.log("Found him at index " + index + "!");
   }
 })
-
-
-// findWaldo(, actionWhenFound);
